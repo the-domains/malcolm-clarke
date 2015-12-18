@@ -1,7 +1,7 @@
 name: MALCOLM CLARKE
 favicon: null
-layout_spectrum: 0.48425
-typography_spectrum: 0.77956
+layout_spectrum: 0.73351
+typography_spectrum: 0.21577
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#7c8285'
     - '#dfe1e1'
     - '#606769'
-  brandStrength: 0.18232529843226075
+  brandStrength: 0.5
   lightness: 0.407839335501194
   saturation: 0.4547600371297449
   rhythmicContrast: 0.9009960223920643
