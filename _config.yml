@@ -1,7 +1,7 @@
 name: MALCOLM CLARKE
 favicon: null
-layout_spectrum: 0.5554671853315085
-typography_spectrum: 0.07333655632101
+layout_spectrum: 0.48425
+typography_spectrum: 0.89628
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#2c3538'
+    - '#7c8285'
+    - '#dfe1e1'
+    - '#606769'
   brandStrength: 0.18232529843226075
   lightness: 0.407839335501194
   saturation: 0.4547600371297449
